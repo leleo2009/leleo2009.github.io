@@ -9,8 +9,8 @@ Sou Leonardo de Albuquerque Pereira, um desenvolvedor web apaixonado por criar s
 ## Projetos
 
 * [Projeto 1](https://github.com/leleo2009/My-First-Landing-Page): Minhha primeira landing-Page, com um visual bem inovador!
-* [Projeto 2](leleo2009/JS-BookStore): Loja de livro em JavaScript
-* [Projeto 3](leleo2009/First-project-Python): Primeiro Projeto em Python minha segunda linguagem principal!
+* [Projeto 2](leleo2009/JS-BookStore): Loja de livro em JavaScript!
+* [Projeto 3](Project-finances-with-JS): Projeto para controle de Finanças!
 
 ## Habilidades
 
